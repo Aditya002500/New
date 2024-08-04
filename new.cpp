@@ -5,5 +5,6 @@ int main()
 {
     int x = 5;
     cout<<x<<endl;
+    ++x;
     return 0;
 }
